@@ -14,7 +14,7 @@ doc.add_paragraph("""Seeking  an internship opportunity at your company to enhan
 # doc.paragraphs[0].runs[0].add_break()
 
 doc.add_heading("Education", 0)
-doc.add_paragraph("(2021-2025)\nBachelor of Science in Mathematics and Computer Science (specializing in Statistics) at Meru University of Science and Technology.")
+doc.add_paragraph("(2021-Todate)\nBachelor of Science in Mathematics and Computer Science (specializing in Statistics) at Meru University of Science and Technology.")
 
 doc.add_heading("Experience", 0)
 doc.add_paragraph("Data Analysis Project: Performed Exploratory Data Analysis(EDA) identifying trends and patterns in data, provided descriptive statistics, and generated visualizations and, reports for decision-making.")

@@ -2,7 +2,7 @@ import docx
 from docx.shared import Inches
 from pathlib import Path
 
-path = Path(Path.home().joinpath("Desktop", "CSV", "AttachReportGPT.docx"))
+path = Path(Path.home().joinpath("Desktop", "CSV", "AttachReport.docx"))
 
 doc = docx.Document()
 
